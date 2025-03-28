@@ -1,6 +1,6 @@
 # 🤖 Discord Bot para Sincronizar Membros da Polícia do Metrópole RP com Google Sheets 🧪 (PROTÓTIPO EM TESTES) 📊
 
-Este é um protótipo de bot Discord em Python, atualmente em fase de testes, criado para facilitar o trabalho manual da Polícia do Metrópole RP, um servidor de GTA RP (roleplay, não roleplay de McDonald's 😉). No nosso servidor, atualmente, precisamos ir no Discord, verificar manualmente o nome e o ID de cada policial e inserir essas informações em uma planilha. Pensando em otimizar nosso tempo e reduzir essa tarefa repetitiva, desenvolvi esta automação para simplificar tudo!
+Este é um protótipo de bot Discord em Python, atualmente em fase de testes, criado para facilitar o trabalho manual da Polícia do Metrópole RP, um servidor de GTA RP. No nosso servidor, atualmente, precisamos ir no Discord, verificar manualmente o nome e o ID de cada policial e inserir essas informações em uma planilha. Pensando em otimizar nosso tempo e reduzir essa tarefa repetitiva, desenvolvi esta automação para simplificar tudo!
 
 O bot coleta informações dos membros do servidor Discord do Metrópole RP e as salva automaticamente em uma planilha do Google Sheets. Ele também tenta ordenar os membros com base em uma lista predefinida de patentes encontradas em seus nicks do Discord.
 
